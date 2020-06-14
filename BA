@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script>
+        window.dataLayer = window.dataLayer || [];
+      </script>
+
+<style>
+          .async-hide {
+            opacity: 0 !important
+          }
+        </style>
+
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+        h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+        (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+        })(window,document.documentElement,'async-hide','dataLayer',4000,
+        {'GTM-W8NM5S3':true});</script>
+<script>
+        // Analytics tracking code with Optimize plugin
+        (function(i, s, o, g, r, a, m) {
+          i['GoogleAnalyticsObject'] = r;
+          i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments)
+          }, i[r].l = 1 * new Date();
+          a = s.createElement(o),
+          m = s.getElementsByTagName(o)[0];
+          a.async = 1;
+          a.src = g;
+          m.parentNode.insertBefore(a,m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        const gaCode = "UA-29709764-1";
+        ga("create", gaCode, "auto");
+          ga("require", "GTM-W8NM5S3"); //Insert Optimize Container ID
+          if (window.dataLayer) {
+            window.dataLayer.push({event: "optimize.activate"});
+          }
+      </script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>Home | Beast Academy</title>
+<style>
+      #loaderror_message { display: none; }
+      .wf-loading #top_container { visibility: hidden; }
+      .wf-active #top_container, .wf-inactive #top_container { visibility: visible; }
+    </style>
+<link rel="icon" href="/assets/favicon.ico">
+<link rel="apple-touch-icon" href="/assets/images/icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<style>
+    .ba-initial-loading-bg {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: #F5F5F5;
+      background-image: url(/assets/images/elements/argyles/patch-white.png);
+      background-repeat: repeat;
+      background-size: 10%;
+    }
+    .ba-initial-loading-main {
+      position: absolute;
+      width: 15vw;
+      height: 15vw;
+      min-width: 100px;
+      min-height: 100px;
+      top: 50%;
+      left: 50%;
+      -webkit-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+    }
+    .ba-initial-loading-container {
+      position: absolute;
+      left: 7.5%;
+      top: 7.5%;
+      right: 7.5%;
+      bottom: 7.5%;
+    }
+    .ba-initial-loading-blue-circle, .ba-initial-loading-red-circle {
+      position: absolute;
+      width: 15%;
+      height: 15%;
+      border-radius: 50%;
+      -webkit-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+      -webkit-animation-name: fadeC;
+      animation-name: fadeC;
+      -webkit-animation-iteration-count: infinite;
+      animation-iteration-count: infinite;
+      -webkit-animation-direction: normal;
+      animation-direction: normal;
+      -webkit-animation-duration: 1200ms;
+      animation-duration: 1200ms;
+      opacity: 0;
+      border-radius: 50%;
+    }
+    .ba-initial-loading-blue-circle {
+      background-color: #0058A8;
+    }
+    .ba-initial-loading-red-circle {
+      background-color: #ED1940;
+    }
+    .ba-initial-loading-logo {
+      width: 50%;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      -webkit-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+    }
+    #circle-1 {
+      left: 100%;
+      top: 50%;
+      -webkit-animation-delay: 0ms;
+      animation-delay: 0ms;
+    }
+    #circle-2 {
+      left: 93.3%;
+      top: 75%;
+      -webkit-animation-delay: 100ms;
+      animation-delay: 100ms;
+    }
+    #circle-3 {
+      left: 75%;
+      top: 93.3%;
+      -webkit-animation-delay: 200ms;
+      animation-delay: 200ms;
+    }
+    #circle-4 {
+      left: 50%;
+      top: 100%;
+      -webkit-animation-delay: 300ms;
+      animation-delay: 300ms;
+    }
+    #circle-5 {
+      left: 25%;
+      top: 93.3%;
+      -webkit-animation-delay: 400ms;
+      animation-delay: 400ms;
+    }
+    #circle-6 {
+      left: 6.7%;
+      top: 75%;
+      -webkit-animation-delay: 500ms;
+      animation-delay: 500ms;
+    }
+    #circle-7 {
+      left: 0%;
+      top: 50%;
+      -webkit-animation-delay: 600ms;
+      animation-delay: 600ms;
+    }
+    #circle-8 {
+      left: 6.7%;
+      top: 25%;
+      -webkit-animation-delay: 700ms;
+      animation-delay: 700ms;
+    }
+    #circle-9 {
+      left: 25%;
+      top: 6.7%;
+      -webkit-animation-delay: 800ms;
+      animation-delay: 800ms;
+    }
+    #circle-10 {
+      left: 50%;
+      top: 0%;
+      -webkit-animation-delay: 900ms;
+      animation-delay: 900ms;
+    }
+    #circle-11 {
+      left: 75%;
+      top: 6.7%;
+      -webkit-animation-delay: 1000ms;
+      animation-delay: 1000ms;
+    }
+    #circle-12 {
+      left: 93.3%;
+      top: 25%;
+      -webkit-animation-delay: 1100ms;
+      animation-delay: 1100ms;
+    }
+    @-webkit-keyframes fadeC {
+      0% {
+        opacity: 1;
+      }
+      100% {
+        opacity: 0;
+      }
+    }
+    @keyframes fadeC {
+      0% {
+        opacity: 1;
+      }
+      100% {
+        opacity: 0;
+      }
+    }
+    </style>
+</head>
+<body>
+<script>
+window.BA_DIST_PATH = "/dist/v3.11.1/";
+window.BA_PACKAGE_VERSION = "3.11.1";
+!function(){document.addEventListener("DOMContentLoaded",function(){var e=document.getElementById("loaderror_message"),n=document.querySelector(".ba-initial-loading-main"),t=function(){window.__BA_CORE_BUNDLE_DONE__?e.style.display="none":(e.style.display="block",n&&(n.style.display="none"),setTimeout(t,1e3))};setTimeout(t,3e3)})}();
+</script>
+<script src="/dist/v3.11.1/bundle_init.js"></script>
+<link rel="stylesheet" type="text/css" href="/dist/v3.11.1/main.css">
+<link rel="stylesheet" type="text/css" href="/dist/v3.11.1/bundle.css">
+<div id="top_container"><div class="ba-initial-loading-main">
+<div class="ba-initial-loading-container">
+<div class="ba-initial-loading-blue-circle" id="circle-1"></div>
+<div class="ba-initial-loading-red-circle" id="circle-2"></div>
+<div class="ba-initial-loading-blue-circle" id="circle-3"></div>
+<div class="ba-initial-loading-red-circle" id="circle-4"></div>
+<div class="ba-initial-loading-blue-circle" id="circle-5"></div>
+<div class="ba-initial-loading-red-circle" id="circle-6"></div>
+<div class="ba-initial-loading-blue-circle" id="circle-7"></div>
+<div class="ba-initial-loading-red-circle" id="circle-8"></div>
+<div class="ba-initial-loading-blue-circle" id="circle-9"></div>
+<div class="ba-initial-loading-red-circle" id="circle-10"></div>
+<div class="ba-initial-loading-blue-circle" id="circle-11"></div>
+<div class="ba-initial-loading-red-circle" id="circle-12"></div>
+<img class="ba-initial-loading-logo" src="/assets/images/logos/ba-color.svg" />
+</div>
+</div></div>
+<div id="loaderror_message" class="ba-html-modal"><div>
+<p>The website appears to not have loaded correctly. Please try again later.</p>
+<p><a onclick="location.reload(true);return false">Click to refresh</a>.</p>
+</div></div>
+<noscript>
+<div class="ba-html-modal"><div>
+<p>Your browser has Javascript turned off.</p>
+<p>In order to use Beast Academy, you will need to enable Javascript.</p>
+</div></div>
+</noscript><script>window.BA_PRELOADED_STATE = undefined</script><script>window.BA_EXTRA_BUNDLES = []</script><script src="/dist/v3.11.1/modernizr.js"></script>
+<script src="/dist/v3.11.1/socket.io.slim.js"></script>
+<script src="/dist/v3.11.1/web-animations-next.min.js"></script>
+<script src="/dist/v3.11.1/corejs.js"></script>
+<script src="/dist/v3.11.1/bundle_vendor.js"></script>
+<script src="/dist/v3.11.1/bundle_core.js"></script>
+</body>
+</html>
