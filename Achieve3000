@@ -1,0 +1,681 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta http-equiv="Content-Type" content="text/html charset=utf-8;">
+
+  <title>Achieve3000: Home</title>
+  <meta name="author" content="Achieve3000">
+      <meta name="viewport" content="width=1020" />
+    <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="stylesheet" href="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/css/reset_style.css">
+  <link rel="stylesheet" href="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/css/monarch-jqueryui/jquery-ui-1.10.4.custom.css" type="text/css" media="screen" charset="utf-8">
+  <link rel="stylesheet" href="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/css/libs/jquery.dropdown.css" type="text/css" media="screen" charset="utf-8">
+  <link rel="stylesheet" href="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/css/monarch/main.css" type="text/css" media="screen" charset="utf-8">
+<link rel="stylesheet" href="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/css/monarch/main_d1.css" type="text/css" media="screen" charset="utf-8">
+  <link rel="stylesheet" href="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/css/monarch/home.css" type="text/css" media="screen" charset="utf-8">
+<link rel="stylesheet" href="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/css/monarch/home_d1.css" type="text/css" media="screen" charset="utf-8">
+  <script type="text/javascript" src="/assets/js/libs/jsnlog.min.js"></script>
+<script language="javascript">
+var appender= JL.createAjaxAppender();
+appender.setOptions({"url":"\/kb\/logger\/jsn_log","disallow":"play()|speechstream|flowplayer|walkme|property 'feedConf' of null|circular structure to JSON on line 9"});
+JL().setOptions({"appenders": [appender]});
+JL.setOptions({"enabled":"1","maxMessages":"2"});
+</script>
+ 
+  
+<script src="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/js/libs/jquery-1.11.0.min.js" data-from="a3k"></script>
+<script src="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/js/libs/jquery-migrate-1.2.1.min.js" data-from="a3k"></script>
+
+
+  <script type="text/javascript" src="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/js/libs/jquery-ui-1.10.2.min.js" data-from="a3k"></script>
+<script type="text/javascript" src="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/js/libs/jquery.ui.touch-punch.min.js" data-from="a3k"></script>
+<script type="text/javascript" src="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/js/libs/swfobject.js" data-from="a3k"></script>
+  
+
+<script type="text/javascript"  src="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/js/libs/jquery.dropdown.js" data-from="a3k"></script>
+<script type="text/javascript"  src="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/js/menu.js" data-from="a3k"></script>
+<script type="text/javascript"  src="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/js/expand.js" data-from="a3k"></script>
+<script type="text/javascript"  src="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/js/monarch/header.js" data-from="a3k"></script>
+
+  <!-- scripts concatenated and minified via ant build script-->
+  <script type="text/javascript"  src="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/js/plugins.js" data-from="a3k"></script>
+  <!-- end concatenated and minified scripts-->
+  <script type="text/javascript" src="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/js/common/a3k/logger.js" charset="utf-8" data-from="a3k"></script>
+<script type="text/javascript" src="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/js/common/a3k/ui.js" charset="utf-8" data-from="a3k"></script>
+<script type="text/javascript" src="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/js/common/a3k/ui/ajaxErrorHandler.js" charset="utf-8" data-from="a3k"></script>
+<script type="text/javascript" src="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/js/common/a3k/bootstrap.js" charset="utf-8" data-from="a3k"></script>
+	<script type="text/javascript"  src="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/js/common/alert.js" data-from="a3k"></script>
+	<script type="text/javascript"  src="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/js/monarch/motivation.js" data-from="a3k"></script>
+  <script type="text/javascript"  src="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/js/libs/preload-images.js" data-from="a3k"></script>
+  <script type="text/javascript"  src="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/js/application.js" data-from="a3k"></script>
+  <script type="text/javascript"  src="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/js/storage.js" data-from="a3k"></script>
+  <script type="text/javascript"  src="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/js/session_timer3.js" is-student="1" website-title="KidBiz3000" charset="utf-8" lang="en" data-from="a3k"></script>
+
+    <script type="text/javascript" src="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/js/monarch/home.js" charset="utf-8" data-from="a3k"></script>
+  <script type="text/javascript" src="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/js/kidbiz/header.js" charset="utf-8" data-from="a3k"></script>
+<script type="text/javascript" src="/ple0ef9ccd75add3946e9086858facc164a9ed3fdeus/assets/js/common/components/submission.js" charset="utf-8" data-from="a3k"></script>
+
+    </head>
+<body class="kidbiz-domain-1">
+<div class="flex-container">
+  <div class="flex-content">
+                        <div role="banner" class="headerContainer headerBGimage banner-3 cover" ignore="true">
+          <div class="headerTop headerBGcolor">
+            <div class="logo access">
+</div>
+
+<div id="stateEditionIcon" class="stateEditionIcon_access">
+    <div class="stateEditionIconLeft"></div>
+    <div class="stateEditionIconCenter">INTL Edition</div>
+    <div class="stateEditionIconRight"></div>
+</div>
+
+<div id="MotivationalDashboardContainer">
+  <div class="studentStats">
+      <div id='my-avatar' class="avatar avatarHeaderImage">
+     <img src="/assets/images/avatars/rainbow.png" title="Choose your avatar" alt="Choose your avatar" />
+    </div>
+    <div class="nameContainer">
+    <div class="name" data-dropdown="#student-settings-dropdown">
+      <a aria-label="User Preferences" aria-haspopup="true" role="button" tabindex="0">Amy<img alt="" src="/assets/images/monarch/kidbiz/stats_arrow.gif" class="arrow" /></a>
+    </div>
+    <div class="points"><div id="topPointsContainer">531</div> points</div>  </div>
+</div>
+<div id="avatarDialog"><div class="avatarContents"></div></div>
+<script>
+    $(document).ready(function(){
+  
+        a3k.initialize_avatar_dialog();
+
+      });
+</script>
+</div>
+<div id="earconContainer">
+</div>
+
+<div class="shadow">
+</div>
+
+<div id="student-settings-dropdown" class="dropdown dropdown-anchor-right">
+  <ul class="dropdown-menu">
+            <li><a class="popup rolloverAnchor" href="/change_password" data-text="Change Password" data-rollover="Change Password">Change Password</a></li>
+                <li><a class="popup rolloverAnchor" href="/login/wizard/parent/" data-text="Create Parent Login" data-rollover="Create Parent Login">Create Parent Login</a></li>
+                <li><a class=" rolloverAnchor" href="/util/logout.php" data-text="Log Out" data-rollover="Log Out">Log Out</a></li>
+        </ul>
+</div>
+<script data-from="a3k">
+$(function() {
+  $('.avatar a').click(function() {
+    window.open($(this).attr('href'), 'scoreboards','location=0, menubar=0,resizable=1,width=790,height=580');
+    return false;
+  });
+  $('#student-settings-dropdown a.popup').click(function() {
+    window.open($(this).attr('href'), '','scrollbars=yes,resizable=yes,height=240,width=550');
+    $('#student-settings-dropdown').dropdown('hide');
+    return false;
+  });
+});
+</script>
+
+          </div>
+          <div class="navContainer navBGimage">
+            <div class="nav navBGimageColor">
+		
+			
+	<div class="classContainer oneclass">
+
+		<div class="class" data-class-id="6015417" data-color-id="C17"><div class="classColor C17" data-dropdown='#color_palette'></div><div class="className">Jin Qiu</div></div>
+
+		<div class="classArrowNodrop">&nbsp;</div>
+</div>
+
+
+
+	
+  <ul class="links">
+  		              <li class="linkContainer" title="Home">
+        <a href="/home" class="pick rolloverAnchor" data-text="Home" data-rollover="Home">Home</a>
+      </li>
+      		              <li class="linkContainer" title="Mailbox">
+        <a href="/mail/" class="nopick rolloverAnchor" data-text="Mailbox" data-rollover="Mailbox">Mailbox</a>
+      </li>
+      		              <li class="linkContainer" title="My Lessons">
+        <a href="/my_lessons" class="nopick rolloverAnchor" data-text="My Lessons" data-rollover="My Lessons">My Lessons</a>
+      </li>
+      		              <li class="linkContainer" title="Resources">
+        <a href="#" data-dropdown="#resources-dropdown"><span class="rolloverAnchor" data-text="Resources" data-rollover="Resources">Resources</span><img alt="" src="/assets/images/monarch/resources_arrow.png" id="arrow" class="arrow" /></a>
+      </li>
+      		              <li class="linkContainer" title="Search">
+        <a href="/kb/search/" class="nopick rolloverAnchor" data-text="Search" data-rollover="Search">Search</a>
+      </li>
+        </ul>
+</div>
+
+
+          <div id="resources-dropdown" class="dropdown">
+    <ul class="dropdown-menu">
+                  <li><a class="rolloverAnchor" href="/kb/career/" data-text="Career Centre" data-rollover="Career Centre">Career Centre</a></li>
+                        <li><a class="rolloverAnchor" href="/article/?c=6" data-text="Writing Centre" data-rollover="Writing Centre">Writing Centre</a></li>
+                                                      </ul>
+  </div>
+            </div>
+        </div>
+              <div id="appContentStart" class="contentContainer monarchContentContainer" role="main">
+      <div class="headlineContainer" style="display: none;">
+  <div class="headline">
+    <div class="lessonPhotoContainer">
+              <div id='photo-15237' class="photoContainer" title="Jin Qiu" style="display:none"><div class="media-image">
+	<img alt="" src="https://cdn.achieve3000.com/assets/content/images/KB/m/home/Mosquitos_052912.jpg" style="width: 336px; height: 256px;" title="Dutch leaders are making a drainage basin. This will keep floodwaters away from homes. It could create a mosquito problem, however." />
+	<p class="credits">
+		Photo credit: AP</p>
+	<p class="caption">
+		Dutch leaders are making a drainage basin. This will keep floodwaters away from homes. It could create a mosquito problem, however.</p>
+</div></div>
+              <div id='photo-15273' class="photoContainer" title="Jin Qiu" style="display:none"><div class="media-image">
+	<div class="image">
+		<img alt="image" src="https://cdn.achieve3000.com/assets/content/images/KB/a/home/abetterwaytofarm.jpg" /><img alt="image" class="magnify" src="/assets/images/lesson/content_area/magnify.gif" /></div>
+	<p class="credits">
+		<span class="loader-helper" style="color:green;font-weight:bold;">credits</span> AP photo Don Bustos<span class="loader-helper" style="color:green;font-weight:bold;">end credits</span></p>
+	<p class="caption">
+		<span class="loader-helper" style="color:green;font-weight:bold;">caption</span> Some farmers in the U.S. are adopting vegan farming, which uses no chemicals or animal products.<span class="loader-helper" style="color:green;font-weight:bold;">end caption</span></p>
+</div></div>
+              <div id='photo-16468' class="photoContainer" title="Jin Qiu" style="display:none"><div class="media-image">
+	<div class="image">
+		<img alt="image" src="https://cdn.achieve3000.com/assets/content/images/KB/j/home/july2015_AHomeinAmerica.jpg" style="width: 336px; height: 226px;" /><img alt="image" class="magnify" src="/assets/images/lesson/content_area/magnify.gif" /></div>
+	<p class="credits">
+		<span class="loader-helper" style="color:green;font-weight:bold;">credits</span> Photo credit: AP Photo/Richard Drew<span class="loader-helper" style="color:green;font-weight:bold;">end credits</span></p>
+	<p class="caption">
+		<span class="loader-helper" style="color:green;font-weight:bold;">caption</span>This actress is telling an immigrant's story at the Lower East Side Tenement Museum. <span class="loader-helper" style="color:green;font-weight:bold;">end caption</span></p>
+</div></div>
+              <div id='photo-15616' class="photoContainer" title="Jin Qiu" style="display:none"><div class="media-image">
+	<img alt="" src="https://cdn.achieve3000.com/assets/content/images/KB/s/home/slave_ship_042114.jpg" style="width: 336px; height: 256px;" title="The Freedom Schooner Amistad just left for a trip." />
+	<p class="credits">
+		AP Photo/Jessica Hill</p>
+	<p class="caption">
+		Madelaine Mamie Jigba performed a blessing of the Freedom Schooner Amistad before the ship departed from its home port in New Haven, Connecticut.</p>
+</div></div>
+              <div id='photo-18953' class="photoContainer" title="Jin Qiu" style="display:none"><div class="media-image">
+	<div class="image">
+		<img alt="Axel Toro Vega sits at a desk while working on his high-tech headband for the blind" src="https://cdn.achieve3000.com/assets/content/images/KB/y/home/YoungInventorsTackleBigProblems_061220.jpg" /><img alt="image" class="magnify" src="/assets/images/lesson/content_area/magnify.gif" /></div>
+	<p class="credits">
+		<span class="loader-helper" style="color:green;font-weight:bold;">credits</span> Photo credit: Axel Toro Vega<span class="loader-helper" style="color:green;font-weight:bold;">end credits</span></p>
+	<p class="caption">
+		<span class="loader-helper" style="color:green;font-weight:bold;">caption</span> CAPTION <span class="loader-helper" style="color:green;font-weight:bold;">end caption</span></p>
+</div></div>
+              <div id='photo-15015' class="photoContainer" title="Jin Qiu" style="display:none"><div class="media-image">
+	<div class="image">
+		<img alt="image" src="https://cdn.achieve3000.com/assets/content/images/KB/5/home/5000yearolddoor_111813.jpg" /><img alt="image" class="magnify" src="/assets/images/lesson/content_area/magnify.gif" /></div>
+	<p class="credits">
+		<span class="loader-helper" style="color:green;font-weight:bold;">credits</span> Photo credit: AP Photo / Hochbaudepartment Zurich, Handout<span class="loader-helper" style="color:green;font-weight:bold;">end credits</span></p>
+	<p class="caption">
+		<span class="loader-helper" style="color:green;font-weight:bold;">caption</span>This is a 5,000-year-old door that archaeologists in the Swiss city of Zurich found. The ancient poplar wooden door is "solid and elegant" with a "remarkable" design for holding the boards together.<span class="loader-helper" style="color:green;font-weight:bold;">end caption</span></p>
+</div></div>
+              <div id='photo-19053' class="photoContainer" title="Jin Qiu" style="display:none"><div class="media-image">
+	<div class="image">
+		<img alt="Ten cell phones are lined up, from the earliest to the most recent." src="https://cdn.achieve3000.com/assets/content/images/KB/l/home/LetsTalkAboutCellPhones_061020.jpg" /><img alt="image" class="magnify" src="/assets/images/lesson/content_area/magnify.gif" /></div>
+	<p class="credits">
+		<span class="loader-helper" style="color:green;font-weight:bold;">credits</span> Photo credit: POM POM/Shutterstock<span class="loader-helper" style="color:green;font-weight:bold;">end credits</span></p>
+	<p class="caption">
+		<span class="loader-helper" style="color:green;font-weight:bold;">caption</span> CAPTION <span class="loader-helper" style="color:green;font-weight:bold;">end caption</span></p>
+</div></div>
+              <div id='photo-19325' class="photoContainer" title="Jin Qiu" style="display:none"><div class="media-image">
+	<div class="image">
+		<img alt="A wood bee hotel made up of stacked cubicles with small openings and surrounded by potted plants" src="https://cdn.achieve3000.com/assets/content/images/KB/h/home/HotelForBees_HERO_061020.jpg" /><img alt="image" class="magnify" src="/assets/images/lesson/content_area/magnify.gif" /></div>
+	<p class="credits">
+		<span class="loader-helper" style="color:green;font-weight:bold;">credits</span> Photo credit: LeaDigszammal/Shutterstock<span class="loader-helper" style="color:green;font-weight:bold;">end credits</span></p>
+	<p class="caption">
+		<span class="loader-helper" style="color:green;font-weight:bold;">caption</span> CAPTION <span class="loader-helper" style="color:green;font-weight:bold;">end caption</span></p>
+</div></div>
+          </div>
+    <div class="lessonContainer">
+                      <div class="lesson" id='lesson-15237' title="Jin Qiu" style="display:none">
+          <p class="title  ">Looking for Food</p>
+          <p class="summary "
+            >A drainage basin being built in the Netherlands prompted a study to find out how far mosquitoes travel. Researchers were surprised by their findings.</p>
+        </div>
+        <div id='typeLabel-15237' style="padding: 15px 0; display: none;">
+            <span class="typeLabel">5-Step Lesson</span>
+        </div>
+                      <div class="lesson" id='lesson-15273' title="Jin Qiu" style="display:none">
+          <p class="title  ">A Better Way To Farm?</p>
+          <p class="summary "
+            >Some farmers in the U.S. are adopting a new method of farming, which they say is more hygienic, better for the environment, and less expensive.</p>
+        </div>
+        <div id='typeLabel-15273' style="padding: 15px 0; display: none;">
+            <span class="typeLabel">5-Step Lesson</span>
+        </div>
+                      <div class="lesson" id='lesson-16468' title="Jin Qiu" style="display:none">
+          <p class="title  ">A Home in America</p>
+          <p class="summary "
+            >A New York museum teaches about the challenges faced by immigrants in the early 1900s.</p>
+        </div>
+        <div id='typeLabel-16468' style="padding: 15px 0; display: none;">
+            <span class="typeLabel">5-Step Lesson</span>
+        </div>
+                      <div class="lesson" id='lesson-15616' title="Jin Qiu" style="display:none">
+          <p class="title  ">Remembering the Amistad</p>
+          <p class="summary "
+            >A ship will trace the route of many 19th-century slave ships and remember the courage of slaves who rebelled.</p>
+        </div>
+        <div id='typeLabel-15616' style="padding: 15px 0; display: none;">
+            <span class="typeLabel">5-Step Lesson</span>
+        </div>
+                      <div class="lesson" id='lesson-18953' title="Jin Qiu" style="display:none">
+          <p class="title title_small ">Young Inventors Tackle Big Problems</p>
+          <p class="summary "
+            >Young people are inventing effective solutions to important global issues. Learn what inspired three teen inventors and how their ideas are making a difference.</p>
+        </div>
+        <div id='typeLabel-18953' style="padding: 15px 0; display: none;">
+            <span class="typeLabel">5-Step Lesson</span>
+        </div>
+                      <div class="lesson" id='lesson-15015' title="Jin Qiu" style="display:none">
+          <p class="title  ">What's Behind This Door?</p>
+          <p class="summary "
+            >Archaeologists have found a wooden door that is about 5,000 years old. What can they learn from it?</p>
+        </div>
+        <div id='typeLabel-15015' style="padding: 15px 0; display: none;">
+            <span class="typeLabel">5-Step Lesson</span>
+        </div>
+                      <div class="lesson" id='lesson-19053' title="Jin Qiu" style="display:none">
+          <p class="title  ">Let's Talk About Phones</p>
+          <p class="summary "
+            >Cell phones have changed a lot through the years. Hear about their history and learn how they got so smart.</p>
+        </div>
+        <div id='typeLabel-19053' style="padding: 15px 0; display: none;">
+            <span class="typeLabel">Article + Activity</span>
+        </div>
+                      <div class="lesson" id='lesson-19325' title="Jin Qiu" style="display:none">
+          <p class="title  ">Hotels for Bees</p>
+          <p class="summary "
+            >Bees are disappearing, so some people are building bee hotels.</p>
+        </div>
+        <div id='typeLabel-19325' style="padding: 15px 0; display: none;">
+            <span class="typeLabel">Article + Activity</span>
+        </div>
+            <div class="startLessonButton"><a href="javascript:void(0);" id='home-button' class="rolloverAnchor" data-text="Start Lesson" data-rollover="Start Lesson" title="Start Lesson">Start Lesson</a></div>
+      <table class="thumbnailsTable" border="0" cellpadding="0" cellspacing="0" style=''>
+      <tr>
+                  <td id='thumb-15237' data-lid='15237' data-cat='68' data-scat='558' data-oid='421' data-ot='5' class="thumb thumbPick">
+              <a href="javascript:void(0);" title="Jin Qiu"><div class="media-image">
+	<img alt="" src="https://cdn.achieve3000.com/assets/content/images/KB/m/thumbnails/Mosquitos_052912.jpg"  title="Dutch leaders are making a drainage basin. This will keep floodwaters away from homes. It could create a mosquito problem, however." />
+	<p class="credits">
+		Photo credit: AP</p>
+	<p class="caption">
+		Dutch leaders are making a drainage basin. This will keep floodwaters away from homes. It could create a mosquito problem, however.</p>
+</div></a>
+          </td>
+                  <td id='thumb-15273' data-lid='15273' data-cat='76' data-scat='612' data-oid='425' data-ot='5' class="thumb ">
+              <a href="javascript:void(0);" title="Jin Qiu"><div class="media-image">
+	<div class="image">
+		<img alt="image" src="https://cdn.achieve3000.com/assets/content/images/KB/a/thumbnails/abetterwaytofarm.jpg" /><img alt="image" class="magnify" src="/assets/images/lesson/content_area/magnify.gif" /></div>
+	<p class="credits">
+		<span class="loader-helper" >credits</span> AP photo Don Bustos<span class="loader-helper" >end credits</span></p>
+	<p class="caption">
+		<span class="loader-helper" >caption</span> Some farmers in the U.S. are adopting vegan farming, which uses no chemicals or animal products.<span class="loader-helper" >end caption</span></p>
+</div></a>
+          </td>
+                  <td id='thumb-16468' data-lid='16468' data-cat='61' data-scat='933' data-oid='57' data-ot='5' class="thumb ">
+              <a href="javascript:void(0);" title="Jin Qiu"><div class="media-image">
+	<div class="image">
+		<img alt="image" src="https://cdn.achieve3000.com/assets/content/images/KB/j/thumbnails/july2015_AHomeinAmerica.jpg"  /><img alt="image" class="magnify" src="/assets/images/lesson/content_area/magnify.gif" /></div>
+	<p class="credits">
+		<span class="loader-helper" >credits</span> Photo credit: AP Photo/Richard Drew<span class="loader-helper" >end credits</span></p>
+	<p class="caption">
+		<span class="loader-helper" >caption</span>This actress is telling an immigrant's story at the Lower East Side Tenement Museum. <span class="loader-helper" >end caption</span></p>
+</div></a>
+          </td>
+                  <td id='thumb-15616' data-lid='15616' data-cat='61' data-scat='550' data-oid='56' data-ot='5' class="thumb ">
+              <a href="javascript:void(0);" title="Jin Qiu"><div class="media-image">
+	<img alt="" src="https://cdn.achieve3000.com/assets/content/images/KB/s/thumbnails/slave_ship_042114.jpg"  title="The Freedom Schooner Amistad just left for a trip." />
+	<p class="credits">
+		AP Photo/Jessica Hill</p>
+	<p class="caption">
+		Madelaine Mamie Jigba performed a blessing of the Freedom Schooner Amistad before the ship departed from its home port in New Haven, Connecticut.</p>
+</div></a>
+          </td>
+                  <td id='thumb-18953' data-lid='18953' data-cat='1' data-scat='28' data-oid='121' data-ot='5' class="thumb ">
+              <a href="javascript:void(0);" title="Jin Qiu"><div class="media-image">
+	<div class="image">
+		<img alt="Axel Toro Vega sits at a desk while working on his high-tech headband for the blind" src="https://cdn.achieve3000.com/assets/content/images/KB/y/thumbnails/YoungInventorsTackleBigProblems_061220.jpg" /><img alt="image" class="magnify" src="/assets/images/lesson/content_area/magnify.gif" /></div>
+	<p class="credits">
+		<span class="loader-helper" >credits</span> Photo credit: Axel Toro Vega<span class="loader-helper" >end credits</span></p>
+	<p class="caption">
+		<span class="loader-helper" >caption</span> CAPTION <span class="loader-helper" >end caption</span></p>
+</div></a>
+          </td>
+                  <td id='thumb-15015' data-lid='15015' data-cat='76' data-scat='612' data-oid='425' data-ot='5' class="thumb ">
+              <a href="javascript:void(0);" title="Jin Qiu"><div class="media-image">
+	<div class="image">
+		<img alt="image" src="https://cdn.achieve3000.com/assets/content/images/KB/5/thumbnails/5000yearolddoor_111813.jpg" /><img alt="image" class="magnify" src="/assets/images/lesson/content_area/magnify.gif" /></div>
+	<p class="credits">
+		<span class="loader-helper" >credits</span> Photo credit: AP Photo / Hochbaudepartment Zurich, Handout<span class="loader-helper" >end credits</span></p>
+	<p class="caption">
+		<span class="loader-helper" >caption</span>This is a 5,000-year-old door that archaeologists in the Swiss city of Zurich found. The ancient poplar wooden door is "solid and elegant" with a "remarkable" design for holding the boards together.<span class="loader-helper" >end caption</span></p>
+</div></a>
+          </td>
+                  <td id='thumb-19053' data-lid='19053' data-cat='1' data-scat='42' data-oid='121' data-ot='5' class="thumb ">
+              <a href="javascript:void(0);" title="Jin Qiu"><div class="media-image">
+	<div class="image">
+		<img alt="Ten cell phones are lined up, from the earliest to the most recent." src="https://cdn.achieve3000.com/assets/content/images/KB/l/thumbnails/LetsTalkAboutCellPhones_061020.jpg" /><img alt="image" class="magnify" src="/assets/images/lesson/content_area/magnify.gif" /></div>
+	<p class="credits">
+		<span class="loader-helper" >credits</span> Photo credit: POM POM/Shutterstock<span class="loader-helper" >end credits</span></p>
+	<p class="caption">
+		<span class="loader-helper" >caption</span> CAPTION <span class="loader-helper" >end caption</span></p>
+</div></a>
+          </td>
+                  <td id='thumb-19325' data-lid='19325' data-cat='196' data-scat='1788' data-oid='866' data-ot='5' class="thumb ">
+              <a href="javascript:void(0);" title="Jin Qiu"><div class="media-image">
+	<div class="image">
+		<img alt="A wood bee hotel made up of stacked cubicles with small openings and surrounded by potted plants" src="https://cdn.achieve3000.com/assets/content/images/KB/h/thumbnails/HotelForBees_HERO_061020.jpg" /><img alt="image" class="magnify" src="/assets/images/lesson/content_area/magnify.gif" /></div>
+	<p class="credits">
+		<span class="loader-helper" >credits</span> Photo credit: LeaDigszammal/Shutterstock<span class="loader-helper" >end credits</span></p>
+	<p class="caption">
+		<span class="loader-helper" >caption</span> CAPTION <span class="loader-helper" >end caption</span></p>
+</div></a>
+          </td>
+              </tr>
+      </table>
+    </div>
+    <div class="shadow"></div>
+  </div>
+</div>
+
+<script>
+$(document).ready(function() { a3k.monarch.init(15237, 68, 421, 5); });
+</script>
+<div class="extras">
+<div id="MotivationDash" class="stats">
+    <div class="title">My Stats</div>
+            <div class="topCareer">Top Career:<br />
+            	<span>Actor</span>
+          </div>
+        <div class="details"><a href="/motivation/details" class="details_link" title="Details">Details</a></div>
+    <div class="break"></div>
+	  <div class="pointsContainer">
+    <div class="title">Points</div>
+    <div class="boxContainer">
+      <div class="box"><p class="points">0</p>
+        <p>Today</p>
+      </div>
+      <div class="box">
+        <p class="points">531</p>
+        <p>Lifetime</p>
+      </div>
+    </div>
+  </div>
+  <div class="meterContainer">
+    <div class="title">9 Activities <span class="gray">(&ge;75%)</span></div>
+
+<div class="meter">
+<div class="meterEmpty">
+<div class="meterFull" style="width:23%;"></div>
+</div>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" class="numbers">
+    <tr>
+<td width='25%'> 10</td><td width='25%'> 20</td><td width='25%'> 30</td><td width='25%'> 40</td>    </tr>
+  </table>
+</div>
+  </div>
+  <div class="break"></div>
+  <div class="achievementsContainer">
+    <div class="title">Achievements</div>
+    <table border="0" cellpadding="0" cellspacing="5">
+          <tr>
+              <td>
+          <a onclick="javascript:achievement_window('/motivation/achievement?achievement=31')" alt="Commentator;"
+    title="Commentator">
+    <img src="/images/badges/med/commentator.gif" />
+	</a>
+        </td>
+                <td>
+          <a onclick="javascript:achievement_window('/motivation/achievement?achievement=1')" alt="Lexile Achiever;"
+    title="Lexile Achiever">
+    <img src="/images/badges/med/lexileachiever.gif" />
+	</a>
+        </td>
+                <td>
+          <a onclick="javascript:achievement_window('/motivation/achievement?achievement=18')" alt="Activity Rookie;"
+    title="Activity Rookie">
+    <img src="/images/badges/med/MCrookie.gif" />
+	</a>
+        </td>
+                <td>
+          <a onclick="javascript:achievement_window('/motivation/achievement?achievement=33')" alt="School Daily Top Scorer;"
+    title="School Daily Top Scorer">
+    <img src="/images/badges/med/schooldailyhighscore.gif" />
+	</a>
+        </td>
+                <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+              </tr>
+            <tr>
+              <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+              </tr>
+          </table>
+  </div>
+	</div>
+<div id="careerDialog">
+  <div class="careerContainer">
+    <p class="topCareerTitle">Actor</p>
+    <p class="careerGoal">Career Goal: <span>1130L</span></p>
+    <p class="currentLexile">Current Lexile: <span>960L</span></p>
+            <div class="meterContainer">
+      <div class="meterFill" style="width:203px;"></div>
+    </div>
+    <p class="feedback">
+              Good Work! You're on target to meet your career and college readiness goal.          </p>
+    <p class="moreInfo">
+      The Lexile measure is the minimum reading level requirement for a career. It's a good starting point when considering a career. You should also consider education level, training, vocabulary, and any other skills and abilities that the career may require.    </p>
+  </div>
+</div>
+<script>
+$(function() {
+  $('#careerDialog').dialog({
+    modal:true,
+    dialogClass: 'careerDialog',
+    autoOpen:false,
+    title: 'Top Career',
+    width: 640,
+    height:425
+  });
+  $('.topCareer_link').click(function() {
+    $('#careerDialog').dialog('open');
+    return false;
+  });
+});
+</script>
+<div class="bulletinboard">
+  <div class="top"></div>
+  <div class="bcontentContainer">
+    <table cellpadding="0" cellspacing="0">
+              
+			      <tr>
+        <td class="icon">        
+          				            <img src="/assets/images/avatars/rainbow.png" width="34" />
+                </td>
+        <td class="content">
+                          <span class="title">Top Score for 11 June</span>
+              <br />
+                        EngEasy-April 2020
+<br />
+	<span class="leader">A.Y., Year 3 </span>
+<br />
+	<span class="points">100 Points</span>              <br /><br />
+              <div class="link">
+                                <a onclick="window.open('/motivation/scoreboard?selected_id=stats', '621', 'height = 600, width = 630,directories=0,location=1,resizable=1,menubar=1,toolbar=1,scrollbars=1,status=0'); return false;"  href="/motivation/scoreboard?selected_id=stats" 
+                  title="Scoreboard">
+                    Scoreboard                </a>
+                                  
+              </div>    
+         </td>
+      </tr>
+              
+			      <tr>
+        <td class="iconBottom">        
+          				            <img src="/assets/images/monarch/bulletin/contest_giftcard.jpg" width="50" />
+                </td>
+        <td class="contentBottom">
+                          <span class="title">Win an Amazon Gift Card!</span>
+              <br />
+                        Score more points than all other students worldwide and win an Amazon Gift Card.              <br /><br />
+              <div class="link">
+                                <a onclick="window.open('/article/display/index.php?g=9754&navs=N', '719', 'height = 600, width = 630,directories=0,location=1,resizable=1,menubar=1,toolbar=1,scrollbars=1,status=0'); return false;"  href="/article/display/index.php?g=9754&navs=N" 
+                  title="More">
+                    More                </a>
+                                  
+              </div>    
+         </td>
+      </tr>
+        </table>
+  </div>
+  <div class="bottom"></div>
+</div>
+	<div class=shadow></div>
+</div>
+<script type="text/javascript">
+	try {
+		sessionStorage.clear();
+	}
+	catch(e) {} // ignore errors
+</script>
+    </div>
+  </div>
+  <div class="footerContainer" ignore="true">
+    <div role="contentinfo" class="footer">
+  <div class="footerShadow"></div>
+  <div class="footerGray">
+    <div class="logo">
+      <div class="copyright">&copy; 2020 Achieve3000, Inc. and its licensors. All rights reserved.</div>
+    </div>
+  </div>
+  <div class="footerBlue">
+  </div>
+</div>
+  </div>
+    <div id="earconContainer"></div>
+</div>
+
+<script type="text/javascript" data-from="a3k">
+function connectToActivelyLearn () {
+  //submit activelylearnform to login gateway
+  $('#activelylearnform').submit();
+
+}
+</script>
+<form name='activelylearnform' id='activelylearnform' action="https://saml-v2.achieve3000.com/lti/consumer/launch" method="POST" target="_blank">
+  <input type='hidden' id='linkId' name='linkId' value="fNPKVBvfcDMpLRaAGx7UccPTZykMwSP6">
+  <input type='hidden' id='givenName' name='givenName' value="Amy">
+  <input type='hidden' id='familyName' name='familyName' value="Yan">
+  <input type='hidden' id='email' name='email' value="">
+  <input type='hidden' id='userId' name='userId' value="17278995">
+  <input type='hidden' id='roleId' name='roleId' value="1">
+</form>
+  <script type="text/javascript" data-from="a3k">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-12371733-16', 'achieve3000.com',  {'sampleRate': 50});
+      ga('set', 'dimension1', 'Student');
+    ga('set', 'dimension2', '3');
+    ga('set', 'dimension3', '6');
+    ga('set', 'dimension4', '959');
+    ga('set', 'dimension5', 'Regular');
+    ga('set', 'dimension6', 'Language');
+    ga('send', 'pageview');
+</script>
+  
+
+    <script type="text/javascript" data-from="a3k">
+    var a3k = a3k || {};
+    a3k.i18n = function() {
+
+        var _strings = [];
+
+        var self = {
+
+            init: function() {
+                _strings["ajax_error_default"] = "Oops, something went wrong and your work was not saved. Please try again.";
+                _strings["ajax_error_unauthorized"] = "We're sorry, but it looks like you are not signed in. Please click OK to sign in again.";
+                _strings["dialog_close_text"] = "Close";
+                _strings["yes_text_rollover"] = {"text":"Yes","rollover":"Yes"};
+                _strings["no_text_rollover"] = {"text":"No","rollover":"No"};
+            },
+            getString: function(key) {
+                return _strings[key];
+            },
+            get: function (key) {
+                return _strings[key] || null;
+            }
+        };
+        self.init();
+        return self;
+    }();
+
+    if(typeof(Handlebars) !== 'undefined') {
+        Handlebars.registerHelper('i18n', function(key) {
+            return a3k.i18n.getString(key);
+        });
+    }
+</script>
+
+        <script type="application/javascript" data-from="a3k">
+            var a3k = a3k || {};
+            a3k.user = function () {
+
+                var self = {
+                    user_id: 17278995                };
+
+                return self;
+            }();
+        </script>
+    </body>
+</html>
